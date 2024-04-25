@@ -1,16 +1,17 @@
-### Hi there 👋
+# Nico Holm - System Administrator
 
-<!--
-**mokru/mokru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+I am a System Administrator specializing in process and workflow automation. My experience spans across cloud and hybrid environments, and I am adept at scripting in PowerShell, with proficiency in JavaScript, Python, and C++.
 
-Here are some ideas to get you started:
+## Skills
+- PowerShell for automation tasks
+- Managing cloud and hybrid infrastructures (Azure)
+- Utilizing Ms Graph to manage Entra ID
+- Programming with JavaScript, Python, and C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+My projects involve taking data from different sources, normalizing the data and implementing it into other systems.
+The usual MO is creating users and security/unified groups based on external data sources (Anything that can produce accessible data) and implementing that to further systems that can leverage Azure/Microsoft authentication or IAM
+
+## Contact
+For collaboration or assistance with automation, you can reach out to me here on GitHub.
